@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @atul505
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... atulp2285@gmail.com
 
