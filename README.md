@@ -35,6 +35,4 @@ Focused on clean architecture, performance, and production-ready solutions.
 
 ---
 
-<p align="center">
-  <i>Humans Winning AI</i>
-</p>
+
