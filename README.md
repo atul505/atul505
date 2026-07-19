@@ -14,42 +14,11 @@ Focused on clean architecture, performance, and production-ready solutions.
 
 ---
 
-## 🚀 Tech Stack
-
-### 📱 Mobile Development
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
-
-### 🔙 Backend & Architecture
-<p>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MVC-Architecture-blue?style=for-the-badge"/>
-</p>
-
-### 🛠 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Arcade-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
----
-
 ## 🏆 Achievements
 
 - 🥇 Smart India Hackathon 2025 Finalist  
 - 🎯 Google Arcade 2025  
 
----
-
-## 🤝 Open To
-
-- Intern Roles  
-- Student Intern Roles  
-- High-impact collaborative projects  
 
 ---
 
